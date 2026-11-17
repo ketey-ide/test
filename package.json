@@ -1,5 +1,5 @@
 {
-	"name": "penguinmod-home",
+	"name": "ketey-ide-home",
 	"version": "0.0.1",
 	"private": true,
 	"scripts": {
@@ -8,7 +8,7 @@
 		"preview": "vite preview"
 	},
 	"devDependencies": {
-		"@sveltejs/adapter-vercel": "^2.4.3",
+		"@sveltejs/adapter-github-pages": "^2.4.3",
 		"@sveltejs/kit": "^1.5.0",
 		"svelte": "^3.54.0",
 		"vite": "^4.3.0"
